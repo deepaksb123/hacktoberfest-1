@@ -99,8 +99,8 @@ Add a `hello_world_yourusername.xx` script to the `scripts` directory in any lan
 ```Javascript
 // LANGUAGE: Javascript
 // ENV: Node.js
-// AUTHOR: Alice Chuang
-// GITHUB: https://github.com/AliceWonderland
+// AUTHOR: Deepak
+// GITHUB: https://github.com/deepaksbmj
 
 console.log('Hello, World!');
 ```
